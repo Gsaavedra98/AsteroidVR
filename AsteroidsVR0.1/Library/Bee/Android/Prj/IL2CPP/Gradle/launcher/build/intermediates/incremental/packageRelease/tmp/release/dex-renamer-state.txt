@@ -1,0 +1,4 @@
+#Thu Jun 02 13:52:49 COT 2022
+base.0=D\:\\Proyectos Unity\\AsteroidsVR0.1\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
